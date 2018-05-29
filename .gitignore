@@ -1,0 +1,9 @@
+bing.pem
+
+test.sol
+
+/Candy/ # 忽略文件夹
+
+/Binance/
+
+.DS_Store
